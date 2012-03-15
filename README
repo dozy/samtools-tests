@@ -1,0 +1,3 @@
+
+A place to keep samtools tests. Initially just test of high-level functions, but I plan to add lower-level tests and some kind of framework.
+
